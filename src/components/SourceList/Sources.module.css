@@ -1,0 +1,22 @@
+.Source:hover {
+    background-color: #eee;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.list{
+    height: 50%;
+}
+
+.sourcehead{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.loader{
+    margin-top: 30vh;
+}
+
+.favorite{
+    width: 26vh;
+}

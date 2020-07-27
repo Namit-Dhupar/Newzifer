@@ -1,0 +1,37 @@
+.date{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.star{
+    display: inline-block;
+    cursor: pointer;
+}
+
+.star:hover{
+    color: red;
+}
+
+
+.List:hover,
+.List:active {
+    background-color: #eee;
+    cursor: pointer;
+}
+
+.sourcehead{
+    text-align: center;
+}
+
+.loader{
+    margin-top: 30vh;
+}
+
+.mount{
+    margin-top: 30vh;
+    text-align: center;
+}
+
+.thumbnail{
+    margin-right: 5px;
+}
