@@ -4,7 +4,7 @@ A basic React-Redux Showing
 - Dynamic Search for news Sources
 - Semantic UI React
 
-#ScreenShots:
+# ScreenShots:
 
 ![](1.jpg)
 ![](2.jpg)
