@@ -17,3 +17,6 @@ A basic React-Redux Showing
 - npm install
 - npm start
 ```
+
+## Note:
+A working link cannot be added as the App primarily uses a free version of NewsAPI which will not work in an online server.
